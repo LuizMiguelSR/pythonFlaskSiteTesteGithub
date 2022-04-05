@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Luiz Miguel\Desktop\AmbientesAzure\pythonFlask\.venv"
+VIRTUAL_ENV="C:\Users\Luiz\Documents\GitHub\pythonFlaskSiteTesteGithub\.venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
